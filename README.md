@@ -7,7 +7,6 @@
 
 ```javascript
 const lokman = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, python, php],
   tools: [React, Redux, Node, Storybook, Styled-Components, Next],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
